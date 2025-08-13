@@ -16,3 +16,6 @@ A simple yet powerful calculator built using Java Swing. Supports basic arithmet
 ```bash
 javac SmartCalculator.java
 java SmartCalculator
+
+
+Anurag kumar
